@@ -9,3 +9,4 @@
 	```sh
 	$ruby md_int.b foo.md bar.md hmm.md
 	```
+-Bu komutun çıktısı olan html dosyaları yine repodadır.
